@@ -1,1 +1,4 @@
 # Python-Practice-for-DATA-SCIENCE-DAY_33
+Question?
+
+Define a function which can generate and print a tuple where the value are square of numbers between 1 and 20 (both included).
